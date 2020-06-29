@@ -1,0 +1,116 @@
+directoryData = [
+	{
+		"ID": "1",
+		"name": "Brody Kim",
+		"email": "sit.amet.orci@sem.com",
+		"age": "22",
+		"gender" : "Male",
+		
+	},
+	{
+		"ID": "2",
+		"name": "Shellie Dickerson",
+		"email": "mattis.Integer@Mauris.ca",
+		"age": "16",
+		"gender" : "Male",
+		
+	},
+	{
+		"ID": "3",
+		"name": "Kay Johnson",
+		"email": "mus@Seddiamlorem.com",
+		"age": "38",
+		"gender" : "Male",
+		
+	},
+	{
+		"ID": "4",
+		"name": "Lesley Walls",
+		"email": "felis.adipiscing@dictum.com",
+		"age": "28",
+		"gender" : "Female",
+		
+	},
+	{
+		"ID": "5",
+		"name": "Lois Gayle",
+		"email": "eu.eleifend.nec@vitaesemperegestas.ca",
+		"age": "11",
+
+		
+	},
+	{
+		"ID": "6",
+		"name": "Garth Taylor",
+		"email": "diam@disparturientmontes.ca",
+		"age": "33",
+	},
+	{
+		"ID": "7",
+		"name": "Silas Smith",
+		
+		"email": "pede@tempuseu.edu",
+		"age": "21",
+		
+	},
+	{
+		"ID": "8",
+		"name": "Karly Kumar",
+		
+		"email": "Cum@turpisNullaaliquet.co.uk",
+		"age": "16",
+		
+	},
+	{
+		"ID": "9",
+		"name": "Kyle Johnson",
+		
+		"email": "at.velit.Pellentesque@felis.ca",
+		"age": "17",
+		
+	},
+	{
+		"ID": "10",
+		"name": "Cruz Williams",
+		"email": "test@felis.ca",
+	
+		"age": "15",
+		
+		
+	},
+	{
+		"ID": "11",
+		"name": "August Munro",
+
+		"email": "dis@Donec.net",
+		"age": "19",
+
+		
+	},
+	{
+		"ID": "12",
+		"name": "Colt Hendricks",
+		"email": "dis@Donec.net",
+		"age" : "35"
+	},
+	{
+		"ID": "13",
+		"name": "Hilary Pollack",
+		"email": "hilary@Donec.net",
+		"age" :"7"
+	},
+	{
+		"ID": "14",
+		"name": "Jena Pollard",
+		"email": "hilary@Donec.net",
+		"age" :"11111",
+	},
+	{
+		"ID": "15",
+		"name": "Quincy Russel",
+		"email": "hilary@Donec.net",
+		"age" :"11111",
+		
+	},
+				
+]

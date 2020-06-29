@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<title>Backbone Project</title> 
+	<link href="css/main.css" rel="stylesheet" /> 
+</head> 
+<body> 
+ 	
+	<div id="wrapper"> 
+		<h1>Backbone Search Facet</h1> 
+		<div class="tools"> 
+			 
+			<input type="text" id="searchBox" /> Search<br/><br/> 
+			Filter By : 
+			<div id="filters"></div> 
+		</div> 
+		<ul id="listing"></ul> 
+	</div> 
+	 
+	<script type="text/template" id="person-template">
+        <span class="list-header"><%= name %>  
+            (<%= type %>) 
+        </span> 
+		<div class="details"> 
+            ID : <%= ID %><br/> 
+            Age: <%= age %><br/> 
+			email: <a href="mailto:<%= email %>"><%= email %></a> 
+		</div> 
+	</script> 
+	 
+	<script src="js/data.json" type="text/javascript"></script> 
+	 
+	<script src="js/libs/jquery-1.10.2.min.js" type="text/javascript"></script> 
+	<script src="js/libs/underscore-min.js" type="text/javascript"></script> 
+	<script src="js/libs/backbone-min.js" type="text/javascript"></script> 
+	 
+	<script src="js/routers/router.js" type="text/javascript"></script>  
+	<script src="js/models/person-model.js" type="text/javascript"></script> 
+	<script src="js/views/person-views.js" type="text/javascript"></script> 
+	  
+	<script src="js/app.js" type="text/javascript"></script> 
+	 
+	   
+</body> 
+</html> 
